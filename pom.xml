@@ -4,11 +4,11 @@
    
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.endava</groupId>
-   <artifactId>Logging</artifactId>
+   <artifactId>Tracing</artifactId>
    <version>1.0.0</version>
    <packaging>jar</packaging>
-   <name>logging</name>
-   <description>Logging Microservice</description>
+   <name>tracing</name>
+   <description>Tracing Microservice</description>
    
    <parent>
       <groupId>org.springframework.boot</groupId>
